@@ -1,1 +1,1 @@
-# Kubernetes test app: Mealie
+# Kubernetes sandbox
